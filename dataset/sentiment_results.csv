@@ -1,0 +1,4 @@
+text,sentiment,score
+I really enjoyed this product. It is excellent and very useful.,POSITIVE,0.9998856782913208
+The service was terrible and I am very disappointed.,NEGATIVE,0.999747097492218
+The product is okay. It works as expected.,POSITIVE,0.9997453093528748

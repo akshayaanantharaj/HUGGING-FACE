@@ -1,0 +1,5 @@
+Pipeline,Purpose
+Sentiment Analysis,Classifies text as positive or negative
+Text Summarization,Creates a shorter version of a long text
+Translation,Translates text from English to French
+Question Answering,Answers questions using a given context
